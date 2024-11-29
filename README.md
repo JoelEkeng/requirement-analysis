@@ -66,7 +66,7 @@ Examples: Performance, security, scalability, usability, reliability.
 # Use Case Diagrams 📊
 Objective: Visual representation of interactions between users and the system.
 
-![Use Case Diagram](../public/alx-booking-uc.png)
+![Use Case Diagram](/public/alx-booking-uc.png)
 
 ## What are Use Case Diagrams?
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
